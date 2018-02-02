@@ -8,3 +8,5 @@ This file contains a list of the favorite movies of contributors.
  *Sunshine* | 1
  *Pan's Labrynth* | 1
  *Animal Crackers* | 1
+ *Dead Pool* | 20
+ *Dr. Strange* | 5
